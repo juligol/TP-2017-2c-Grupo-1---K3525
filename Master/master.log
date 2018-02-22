@@ -1,0 +1,154 @@
+[TRACE] 17:44:48:933 Master/(8780:8780): Comienza proceso Master
+[TRACE] 17:44:50:509 Master/(8780:8780): Configuracion leida
+[TRACE] 17:44:54:185 Master/(8780:8780): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[TRACE] 17:58:02:898 Master/(9173:9173): Comienza proceso Master
+[TRACE] 17:58:02:898 Master/(9173:9173): Configuracion leida
+[TRACE] 17:58:02:970 Master/(9173:9173): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[TRACE] 17:58:48:899 Master/(9208:9208): Comienza proceso Master
+[TRACE] 17:58:48:899 Master/(9208:9208): Configuracion leida
+[TRACE] 17:58:48:954 Master/(9208:9208): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[ERROR] 17:58:49:520 Master/(9208:9208): El administrador de ha desconectado, Cerrando master ...
+
+[TRACE] 17:59:45:786 Master/(9244:9244): Comienza proceso Master
+[TRACE] 17:59:47:631 Master/(9244:9244): Configuracion leida
+[TRACE] 17:59:50:352 Master/(9244:9244): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[ERROR] 17:59:59:791 Master/(9244:9244): El administrador de ha desconectado, Cerrando master ...
+
+[TRACE] 18:00:29:102 Master/(9304:9304): Comienza proceso Master
+[TRACE] 18:00:30:184 Master/(9304:9304): Configuracion leida
+[TRACE] 18:00:34:868 Master/(9304:9304): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[ERROR] 18:00:49:31 Master/(9304:9304): El administrador de ha desconectado, Cerrando master ...
+
+[TRACE] 18:01:55:772 Master/(9382:9382): Comienza proceso Master
+[TRACE] 18:02:02:882 Master/(9382:9382): Configuracion leida
+[TRACE] 18:02:08:99 Master/(9382:9382): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[TRACE] 18:09:24:562 Master/(9721:9721): Comienza proceso Master
+[TRACE] 18:09:26:212 Master/(9721:9721): Configuracion leida
+[TRACE] 18:09:27:891 Master/(9721:9721): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[ERROR] 18:10:51:752 Master/(9721:9721): El administrador de ha desconectado, Cerrando master ...
+
+[TRACE] 18:11:18:397 Master/(9784:9784): Comienza proceso Master
+[TRACE] 18:11:18:397 Master/(9784:9784): Configuracion leida
+[TRACE] 18:11:18:419 Master/(9784:9784): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[ERROR] 18:11:34:714 Master/(9784:9784): El administrador de ha desconectado, Cerrando master ...
+
+[TRACE] 18:12:00:475 Master/(9819:9819): Comienza proceso Master
+[TRACE] 18:12:00:475 Master/(9819:9819): Configuracion leida
+[TRACE] 18:12:00:509 Master/(9819:9819): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[TRACE] 18:12:00:756 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:797 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:801 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:804 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:807 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:810 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:812 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:817 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:820 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:823 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:825 Master/(9819:9819): Transformacion iniciada
+[TRACE] 18:12:00:828 Master/(9819:9819): Transformacion iniciada
+[INFO] 18:12:03:484 Master/(9819:9837): Transformacion OK 192.168.1.112:5042 // BLOCK: 10
+[TRACE] 18:12:03:641 Master/(9819:9819): Reduccion local iniciada
+[INFO] 18:12:03:716 Master/(9819:9847): Redux local OK 192.168.1.112:5042 // Job1-Nodo1-REDUCCION_LOCAL
+[INFO] 18:12:24:255 Master/(9819:9832): Transformacion OK 192.168.1.149:5042 // BLOCK: 1
+[INFO] 18:12:27:585 Master/(9819:9833): Transformacion OK 192.168.1.149:5042 // BLOCK: 3
+[INFO] 18:12:28:21 Master/(9819:9835): Transformacion OK 192.168.1.149:5042 // BLOCK: 7
+[INFO] 18:12:29:5 Master/(9819:9836): Transformacion OK 192.168.1.149:5042 // BLOCK: 9
+[INFO] 18:12:29:224 Master/(9819:9834): Transformacion OK 192.168.1.149:5042 // BLOCK: 5
+[TRACE] 18:12:29:236 Master/(9819:9819): Reduccion local iniciada
+[INFO] 18:12:29:431 Master/(9819:9852): Redux local OK 192.168.1.149:5042 // Job1-Nodo2-REDUCCION_LOCAL
+[INFO] 18:12:29:572 Master/(9819:9830): Transformacion OK 192.168.1.121:5042 // BLOCK: 8
+[INFO] 18:12:30:518 Master/(9819:9831): Transformacion OK 192.168.1.121:5042 // BLOCK: 11
+[INFO] 18:12:31:47 Master/(9819:9827): Transformacion OK 192.168.1.121:5042 // BLOCK: 2
+[INFO] 18:12:31:683 Master/(9819:9829): Transformacion OK 192.168.1.121:5042 // BLOCK: 6
+[INFO] 18:12:37:326 Master/(9819:9826): Transformacion OK 192.168.1.121:5042 // BLOCK: 0
+[INFO] 18:12:37:939 Master/(9819:9828): Transformacion OK 192.168.1.121:5042 // BLOCK: 4
+[TRACE] 18:12:37:995 Master/(9819:9819): Reduccion local iniciada
+[INFO] 18:12:38:239 Master/(9819:9853): Redux local OK 192.168.1.121:5042 // Job1-Nodo10-REDUCCION_LOCAL
+[TRACE] 18:12:45:345 Master/(9819:9819): Reduccion global iniciada
+[INFO] 18:13:02:929 Master/(9819:9819): Recibiendo instrucciones...
+[INFO] 18:13:10:560 Master/(9819:9819): Encargado seleccionado.
+[INFO] 18:14:14:352 Master/(9819:9819): Conectandose al encargado...
+[INFO] 18:14:24:285 Master/(9819:9819): Enviando instrucciones al encargado...
+[TRACE] 18:17:58:789 Master/(10051:10051): Comienza proceso Master
+[TRACE] 18:17:58:789 Master/(10051:10051): Configuracion leida
+[TRACE] 18:17:58:810 Master/(10051:10051): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[TRACE] 18:17:59:20 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:28 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:30 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:31 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:32 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:33 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:35 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:36 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:37 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:41 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:43 Master/(10051:10051): Transformacion iniciada
+[TRACE] 18:17:59:46 Master/(10051:10051): Transformacion iniciada
+[INFO] 18:18:01:581 Master/(10051:10068): Transformacion OK 192.168.1.112:5042 // BLOCK: 10
+[TRACE] 18:18:01:723 Master/(10051:10051): Reduccion local iniciada
+[INFO] 18:18:01:825 Master/(10051:10079): Redux local OK 192.168.1.112:5042 // Job1-Nodo1-REDUCCION_LOCAL
+[INFO] 18:18:12:544 Master/(10051:10062): Transformacion OK 192.168.1.121:5042 // BLOCK: 11
+[INFO] 18:18:18:506 Master/(10051:10063): Transformacion OK 192.168.1.149:5042 // BLOCK: 1
+[INFO] 18:18:21:275 Master/(10051:10065): Transformacion OK 192.168.1.149:5042 // BLOCK: 5
+[INFO] 18:18:21:465 Master/(10051:10061): Transformacion OK 192.168.1.121:5042 // BLOCK: 8
+[INFO] 18:18:21:745 Master/(10051:10067): Transformacion OK 192.168.1.149:5042 // BLOCK: 9
+[INFO] 18:18:22:450 Master/(10051:10064): Transformacion OK 192.168.1.149:5042 // BLOCK: 3
+[INFO] 18:18:22:591 Master/(10051:10059): Transformacion OK 192.168.1.121:5042 // BLOCK: 4
+[INFO] 18:18:23:87 Master/(10051:10066): Transformacion OK 192.168.1.149:5042 // BLOCK: 7
+[TRACE] 18:18:23:104 Master/(10051:10051): Reduccion local iniciada
+[INFO] 18:18:23:285 Master/(10051:10085): Redux local OK 192.168.1.149:5042 // Job1-Nodo2-REDUCCION_LOCAL
+[INFO] 18:18:26:374 Master/(10051:10060): Transformacion OK 192.168.1.121:5042 // BLOCK: 6
+[INFO] 18:18:26:430 Master/(10051:10058): Transformacion OK 192.168.1.121:5042 // BLOCK: 2
+[INFO] 18:18:29:592 Master/(10051:10057): Transformacion OK 192.168.1.121:5042 // BLOCK: 0
+[TRACE] 18:18:29:640 Master/(10051:10051): Reduccion local iniciada
+[INFO] 18:18:29:971 Master/(10051:10086): Redux local OK 192.168.1.121:5042 // Job1-Nodo10-REDUCCION_LOCAL
+[TRACE] 18:18:32:325 Master/(10051:10051): Reduccion global iniciada
+[INFO] 18:18:33:823 Master/(10051:10051): Recibiendo instrucciones...
+[INFO] 18:18:34:557 Master/(10051:10051): Encargado seleccionado.
+[INFO] 18:18:57:517 Master/(10051:10051): Conectandose al encargado...
+[INFO] 18:19:00:221 Master/(10051:10051): Enviando instrucciones al encargado...
+[TRACE] 18:19:31:996 Master/(10177:10177): Comienza proceso Master
+[TRACE] 18:19:31:996 Master/(10177:10177): Configuracion leida
+[TRACE] 18:19:32:97 Master/(10177:10177): Conectado al administrador en 192.168.1.149:5041 / socket:4
+[TRACE] 18:19:32:324 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:333 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:335 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:336 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:337 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:339 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:340 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:341 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:343 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:345 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:348 Master/(10177:10177): Transformacion iniciada
+[TRACE] 18:19:32:350 Master/(10177:10177): Transformacion iniciada
+[INFO] 18:19:34:858 Master/(10177:10195): Transformacion OK 192.168.1.112:5042 // BLOCK: 10
+[TRACE] 18:19:34:4 Master/(10177:10177): Reduccion local iniciada
+[INFO] 18:19:35:70 Master/(10177:10205): Redux local OK 192.168.1.112:5042 // Job1-Nodo1-REDUCCION_LOCAL
+[INFO] 18:19:45:761 Master/(10177:10189): Transformacion OK 192.168.1.121:5042 // BLOCK: 11
+[INFO] 18:19:50:580 Master/(10177:10190): Transformacion OK 192.168.1.149:5042 // BLOCK: 1
+[INFO] 18:19:53:857 Master/(10177:10188): Transformacion OK 192.168.1.121:5042 // BLOCK: 8
+[INFO] 18:19:55:430 Master/(10177:10191): Transformacion OK 192.168.1.149:5042 // BLOCK: 3
+[INFO] 18:19:55:866 Master/(10177:10192): Transformacion OK 192.168.1.149:5042 // BLOCK: 5
+[INFO] 18:19:55:929 Master/(10177:10194): Transformacion OK 192.168.1.149:5042 // BLOCK: 9
+[INFO] 18:19:56:555 Master/(10177:10193): Transformacion OK 192.168.1.149:5042 // BLOCK: 7
+[TRACE] 18:19:56:567 Master/(10177:10177): Reduccion local iniciada
+[INFO] 18:19:56:749 Master/(10177:10210): Redux local OK 192.168.1.149:5042 // Job1-Nodo2-REDUCCION_LOCAL
+[INFO] 18:20:00:113 Master/(10177:10185): Transformacion OK 192.168.1.121:5042 // BLOCK: 2
+[INFO] 18:20:00:332 Master/(10177:10186): Transformacion OK 192.168.1.121:5042 // BLOCK: 4
+[INFO] 18:20:06:618 Master/(10177:10184): Transformacion OK 192.168.1.121:5042 // BLOCK: 0
+[INFO] 18:20:07:630 Master/(10177:10187): Transformacion OK 192.168.1.121:5042 // BLOCK: 6
+[TRACE] 18:20:07:742 Master/(10177:10177): Reduccion local iniciada
+[INFO] 18:20:08:136 Master/(10177:10211): Redux local OK 192.168.1.121:5042 // Job1-Nodo10-REDUCCION_LOCAL
+[TRACE] 18:20:09:224 Master/(10177:10177): Reduccion global iniciada
+[INFO] 18:20:10:657 Master/(10177:10177): Recibiendo instrucciones...
+[INFO] 18:20:11:234 Master/(10177:10177): Encargado seleccionado.
+[INFO] 18:20:24:125 Master/(10177:10177): Conectandose al encargado...
+[INFO] 18:20:30:536 Master/(10177:10177): Enviando instrucciones al encargado...
+[INFO] 18:21:21:755 Master/(10177:10177): Enviando script...
+[INFO] 18:21:30:229 Master/(10177:10177): Reduccion global completada en 192.168.1.112:5042
+[TRACE] 18:21:37:82 Master/(10177:10177): Reduccion global finalizada
+[TRACE] 18:21:55:911 Master/(10177:10177): Almacenamiento final iniciado
+[INFO] 18:21:55:913 Master/(10177:10177): Almacenamiento de <Job1-Master1-FINAL> completado por 192.168.1.112:5042
+[TRACE] 18:21:55:913 Master/(10177:10177): Almacenamiento finalizado
